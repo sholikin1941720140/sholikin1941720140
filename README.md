@@ -37,11 +37,11 @@ As the **Founder of ViMi Tech**, I lead the creation of modern software solution
 ---
 
 ### 🚀 Highlight Projects  
-- 🌍 **IDI Malang Raya** — Membership & digital management system for Ikatan Dokter Indonesia (IDI) Malang Raya.  
 - 🧾 **HRMS System** — Human Resource Management System with attendance, scheduling & KPI tracking.
+- 🌍 **IDI Malang Raya** — Membership & digital management system for Ikatan Dokter Indonesia (IDI) Malang Raya.  
 - 🧠 **IoT Academic Access System** — RFID-based attendance integrated with Laravel backend.  
 - 💳 **Teh Khita App** — Tea e-commerce mobile app (React Native + Laravel + Midtrans Integration).  
-  _Built with Laravel, MySQL and PostgreSQL, featuring member registration, license verification, and event management modules._
+  _Built with Laravel and MySQL, featuring member registration, license verification, and event management modules._
 
 ---
 
