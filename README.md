@@ -30,7 +30,7 @@ As the **Founder of ViMi Tech**, I lead the creation of modern software solution
 <p align="center">
   <a href="https://github.com/Sholikin1941720140">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sholikin1941720140&layout=compact&langs_count=8&theme=gotham"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sholikin1941720140&show_icons=true&theme=gotham&count_private=true&line_height=30&icon_color=fff305&custom_title=GitHub%20Statistics"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sholikin1941720140&show_icons=true&theme=gotham&count_private=true&line_height=30&icon_color=fff305&custom_title=GitHub%20Statistics&hide_rank=true"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@ As the **Founder of ViMi Tech**, I lead the creation of modern software solution
 ### 🚀 Highlight Projects  
 - 🌍 **IDI Malang Raya** — Membership & digital management system for Ikatan Dokter Indonesia (IDI) Malang Raya.  
 - 🧾 **HRMS System** — Human Resource Management System with attendance, scheduling & KPI tracking.
-- - 🧠 **IoT Academic Access System** — RFID-based attendance integrated with Laravel backend.  
+- 🧠 **IoT Academic Access System** — RFID-based attendance integrated with Laravel backend.  
 - 💳 **Teh Khita App** — Tea e-commerce mobile app (React Native + Laravel + Midtrans Integration).  
   _Built with Laravel, MySQL and PostgreSQL, featuring member registration, license verification, and event management modules._
 
