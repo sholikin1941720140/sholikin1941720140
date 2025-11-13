@@ -49,7 +49,8 @@ As the **Founder of ViMi Tech**, I lead the creation of modern software solution
 <p align="left">
   <a href="mailto:sholikinmuhammad140201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/> sholikintech@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/sholikin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> linkedin.com/in/sholikin</a><br>
-  <a href="https://vimitech.dev"><img src="https://img.shields.io/badge/ViMi%20Tech-111827?style=flat&logo=vercel&logoColor=white"/> vimitech-dev.my.id</a>
+  <a href="https://okin-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/> okin-portfolio.vercel.app</a><br>
+  <a href="https://vimitech-dev.my.id"><img src="https://img.shields.io/badge/ViMi%20Tech-111827?style=flat&logo=vercel&logoColor=white"/> vimitech-dev.my.id</a>
 </p>
 
 ---
