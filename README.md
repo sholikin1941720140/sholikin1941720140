@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Sholikin (Okin)</h1>
 
 <p align="center">
-  <em>Fullstack Web Developer • Software Engineer • Founder of <strong>ViMi Tech</strong></em><br/>
+  <em>Fullstack Developer • Software Engineer • Founder of <strong>ViMi Tech</strong></em><br/>
   <a href="https://github.com/Sholikin1941720140">GitHub</a> • 
   <a href="mailto:sholikintech@gmail.com">Email</a> • 
   <a href="https://www.linkedin.com/in/sholikin/">LinkedIn</a> • 
