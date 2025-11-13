@@ -37,11 +37,11 @@ As the **Founder of ViMi Tech**, I lead the creation of modern software solution
 ---
 
 ### 🚀 Highlight Projects  
+- 🏢 **IDEASX ERP System** — Full-featured Enterprise Resource Planning system integrating HR, Procurement, Inventory, Sales, Finance & Accounting, and Project Management with complete period closing and financial reporting capabilities.
 - 🧾 **HRMS System** — Human Resource Management System with attendance, scheduling & KPI tracking.
-- 🌍 **IDI Malang Raya** — Membership & digital management system for Ikatan Dokter Indonesia (IDI) Malang Raya.  
+- 🌍 **IDI Malang Raya** — Membership & digital management system for Ikatan Dokter Indonesia (IDI) Malang Raya, featuring member registration, license verification, and event management modules.  
 - 🧠 **IoT Academic Access System** — RFID-based attendance integrated with Laravel backend.  
-- 💳 **Teh Khita App** — Tea e-commerce mobile app (React Native + Laravel + Midtrans Integration).  
-  _Built with Laravel and MySQL, featuring member registration, license verification, and event management modules._
+- 💳 **Teh Khita App** — Tea e-commerce mobile app with payment gateway integration (React Native + Laravel + Midtrans).
 
 ---
 
